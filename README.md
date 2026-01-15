@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://github.com/iBrainYi?tab=repositories">Repositories</a> ·
   <a href="https://github.com/iBrainYi">Profile</a> ·
-  <a href="mailto:tonmail@exemple.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/tonprofil/">LinkedIn</a>
+  <a href="pro.clement.dias@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/cldias/">LinkedIn</a>
 </p>
 
 ---
