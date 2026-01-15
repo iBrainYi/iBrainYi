@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iBrainYi/iBrainYi/main/assets/banner.svg" alt="banner" />
+  <img src="https://raw.githubusercontent.com/iBrainYi/assets/30d149d5b783d269bbe6ade6bf2a6fa3a2fec02a/banner.svg" alt="banner" />
 </p>
 
 <h1 align="center">iBrainYi</h1>
