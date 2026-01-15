@@ -30,8 +30,8 @@ Je construis des projets orientés **C/C++** (performance, rigueur, architecture
 
 ➡️ **Repos :**  
 - `ft_transcendence` : https://github.com/iBrainYi/ft_transcendence  
-- `miniRT` : <lien du repo>  
-- `webserv` : <lien du repo>
+- `miniRT` : https://github.com/iBrainYi/miniRT 
+- `webserv` :https://github.com/iBrainYi/Webserv
 
 ---
 
