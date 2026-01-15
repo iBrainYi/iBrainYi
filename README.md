@@ -1,49 +1,56 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iBrainYi/iBrainYi/main/assets/banner.svg" alt="banner" />
+</p>
+
 <h1 align="center">iBrainYi</h1>
+
 <p align="center">
-  <i>C++ • Python • Projets systèmes & réseau • 42</i>
+  <i>42 • C/C++ • Python • systems / networking / rendering</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/iBrainYi?tab=repositories">Repos</a> ·
-  <a href="<lien-linkedin>">LinkedIn</a> ·
-  <a href="mailto:<ton-mail>">Mail</a> ·
-  <a href="<lien-portfolio>">Portfolio</a>
+  <a href="https://github.com/iBrainYi?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/iBrainYi">Profile</a> ·
+  <a href="mailto:tonmail@exemple.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/tonprofil/">LinkedIn</a>
 </p>
 
 ---
 
-### À propos
-Je construis des projets orientés **C/C++** (performance, rigueur, architecture) et je documente ce que je fais proprement : objectifs, choix techniques, limites, pistes d’amélioration.
+## ✦ Focus
+Je construis des projets orientés **C/C++** avec une approche **propre, robuste et documentée** : architecture claire, cas limites, et attention à la performance.
 
-- **Focus actuel :** C++ (OOP, templates, design), réseau / web, rendu 3D (miniRT)
-- **J’aime :** code lisible, docs claires, Makefile propre, tests quand c’est pertinent
-- **Langages :** C++ • C • Python
-
----
-
-### Projets phares
-| Projet | Sujet | Points forts |
-|---|---|---|
-| **ft_transcendence** | Application web (42) | Docker / Nginx, front, orchestration, stack moderne |
-| **miniRT** | Mini raytracer | maths 3D, parsing, rendu, optimisation |
-| **webserv** | Serveur HTTP en C++ | parsing HTTP, sockets, I/O, edge cases |
-
-➡️ **Repos :**  
-- `ft_transcendence` : https://github.com/iBrainYi/ft_transcendence  
-- `miniRT` : https://github.com/iBrainYi/miniRT 
-- `webserv` :https://github.com/iBrainYi/Webserv
+- 🎯 **C++98 / systèmes** (rigueur, parsing, edge cases)
+- 🌐 **Réseau / HTTP** (sockets, server)
+- ✨ **Rendu / maths 3D** (ray tracing)
 
 ---
 
-### Stack (sobre)
-- **C++ :** STL, OOP, Makefile, debug (gdb/valgrind)
-- **Web/infra :** Docker, Nginx
-- **Environnement :** Linux, Git
+## ✦ Featured Projects
+
+### ▣ ft_transcendence
+**Projet 42 : application web (orchestration / infra).**  
+`docker` `nginx` `typescript`  
+→ https://github.com/iBrainYi/ft_transcendence
+
+### ▣ Webserv
+**Projet 42 : serveur HTTP en C++ (parsing, base server).**  
+`http` `parsing` `networking`  
+→ https://github.com/iBrainYi/Webserv
+
+### ▣ miniRT
+**Projet 42 : mini ray tracer (scènes, primitives, rendu).**  
+`vector-math` `rendering` `minilibx`  
+→ https://github.com/iBrainYi/miniRT
 
 ---
 
-### Ce que tu peux attendre de mes repos
-- README clair (installation / usage / démos)
-- structure propre
-- commits lisibles
-- limites & améliorations listées (roadmap)
+## ✦ Toolbox
+**Languages:** C / C++ / Python  
+**Tools:** Git · Linux · Makefile · Docker · Nginx  
+**Debug:** gdb · valgrind
+
+---
+
+## ✦ Now
+- polishing READMEs & adding small demos (screenshots / gifs) on featured repos
